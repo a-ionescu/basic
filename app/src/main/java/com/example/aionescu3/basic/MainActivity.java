@@ -44,13 +44,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
-
-
-
-
-
-
         //int permissionCheck = ContextCompat.checkSelfPermission(this,
          //       Manifest.permission.ACCESS_FINE_LOCATION);
 
